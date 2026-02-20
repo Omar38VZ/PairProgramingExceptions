@@ -5,7 +5,7 @@ Esta actividad tiene como finalidad aplicar los conceptos fundamentales del mane
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Comprender el uso de `try`, `catch` y `finally`.
 - Utilizar `throw` para lanzar excepciones manualmente.
 - Utilizar `throws` para indicar que un método puede generar una excepción.
